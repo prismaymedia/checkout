@@ -9,7 +9,7 @@ const IndexPage = () => {
               <div class="py-8 text-base leading-6 space-y-4 text-gray-700 sm:text-lg sm:leading-7">
                 <p>
                   An advanced online playground for Tailwind CSS, including
-                  support for things like:
+                  support for things like2:
                 </p>
                 <ul class="list-disc space-y-2">
                   <li class="flex items-start">
