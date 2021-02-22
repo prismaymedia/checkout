@@ -11,7 +11,6 @@ class MyDocument extends Document {
       <Html>
         <Head />
         <body>
-          <h1>Checkout</h1>
           <Main />
           <NextScript />
           <script
